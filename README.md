@@ -1,0 +1,3 @@
+# Monoseros
+
+> Disable Auto AFK 
